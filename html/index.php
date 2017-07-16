@@ -35,7 +35,7 @@
 		      <li>Education</li>
 		    </ul>
 		  <a onclick="visualisations()" href="#">Visualisations</a>
-		  <a onclick="data()" href="#">Data</a>
+		  <a href="#">Data</a>
 		</div>
 
 		<!-- Use any element to open the sidenav -->
@@ -43,7 +43,7 @@
 
 		<!-- Add all page content inside this div if you want the side nav to push page content to the right (not used if you only want the sidenav to sit on top of the page -->
 		<div id="content">
-		  <iframe class="hide" id="map" src="https://www.google.com/maps/d/embed?mid=19mTZxe-1E_n9vpvyHYzSInVkndE&z=5&ll=1.3733,32.2903" width="1000" height="500"></iframe>
+		  <iframe class="hide" id="map" src="https://www.google.com/maps/d/embed?mid=19mTZxe-1E_n9vpvyHYzSInVkndE&z=6&ll=1.3733,32.2903" width="1000" height="500"></iframe>
 		  <div class="padded" id="about">
 		  	<h3>What is GeoSys</h3>
 		  	<p>The Geo-sys  is an intelligent system governed by multiple sets of algoriths which are utilised in the analysis of geo-data gathered frome multiple trusted data pools, to come up with a systematic projection and evaluation of tasks and projects set to venture by multi-corporations.</p> 
