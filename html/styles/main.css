@@ -8,7 +8,7 @@
     left: 0;
     background-color: #111; /* Black*/
     overflow-x: hidden; /* Disable horizontal scroll */
-    padding-top: 60px; /* Place content 60px from the top */
+    padding-top: 10px; /* Place content 60px from the top */
     transition: 0.5s; /* 0.5 second transition effect to slide in the sidenav */
 }
 
@@ -20,6 +20,18 @@
     color: #818181;
     display: block;
     transition: 0.3s
+}
+
+#name{
+    padding-left: 20px;
+    text-align: center;
+    font-size: 40px;
+    padding-bottom: 60px;
+}
+
+#logo{
+    margin-left: 200px;
+    float: right;
 }
 
 /* When you mouse over the navigation links, change their color */
